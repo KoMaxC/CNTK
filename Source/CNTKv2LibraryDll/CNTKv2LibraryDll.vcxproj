@@ -162,6 +162,7 @@
     <ClInclude Include="PrimitiveFunction.h" />
     <ClInclude Include="PrimitiveOpType.h" />
     <ClInclude Include="Serialization.h" />
+    <ClInclude Include="SimpleUtils.h" />
     <ClInclude Include="tensorboard\TensorBoardUtils.h" />
     <ClInclude Include="UserDefinedFunction.h" />
     <ClInclude Include="UserFunctionFactory.h" />
